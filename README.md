@@ -37,7 +37,7 @@ afk_transparent_amount "120" // Transparent effect amount
 	
 afk_icon "1" // Enable AFK icon above player [0=Disable | 1=Enable]
 afk_blind "1" // Blind player in AFK Protection mode [0=Disable | 1=Enable]
-afk_annouce "20" // Announce with message to players for AFK Protection
+afk_annouce "20" // Announce every 'X' seconds with message to players for AFK Protection
 ```
 
 <br />
