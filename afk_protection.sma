@@ -22,14 +22,14 @@
 *
 ******************************************************************
 *
-* Special Thanks to:
-* ==================
+* Thanks to:
+* ==========
 * <VeCo> - The code for player freeze.
 * DaRk_StyLe - Idea to add cvar to set glow color (RGB).
 * IMBA - Idea to add "AFK" icon above player's model.
 * ardi - Idea to add glow color by team.
 * independent - Idea to add auto AFK mode when player isn't moving.
-* {HOJ} Batman - For his campcheck code from his Hero: Skeletor
+* {HOJ} Batman - For his campcheck code from his Hero: Skeletor.
 *
 *****************************************************************/
 
