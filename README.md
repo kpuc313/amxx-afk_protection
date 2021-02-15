@@ -1,4 +1,4 @@
-<h1 align="center">[AMXX] AFK Protection v2.0</h1>
+<h1 align="center">AFK Protection v2.0</h1>
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/kpuc313/AMXX-AFK_Protection/main/Preview/Logo.png">
