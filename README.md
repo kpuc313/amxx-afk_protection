@@ -3,7 +3,7 @@
 <p align="center">
 <img src="https://raw.githubusercontent.com/kpuc313/AMXX-AFK_Protection/main/Preview/Logo.png">
 <br />
-<img src="https://github.com/kpuc313/AMXX-AFK_Protection/blob/main/Preview/Preview%2001.png" width="400px"><img src="https://github.com/kpuc313/AMXX-AFK_Protection/blob/main/Preview/Preview%2002.png" width="400px">
+<img src="https://github.com/kpuc313/AMXX-AFK_Protection/blob/main/preview/preview_01.png" width="400px"><img src="https://github.com/kpuc313/AMXX-AFK_Protection/blob/main/preview/preview_02.png" width="400px">
 </p>
 
 <br />
