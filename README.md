@@ -1,7 +1,7 @@
 <h1 align="center">AFK Protection v2.0</h1>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/kpuc313/AMXX-AFK_Protection/main/preview/logo2.png">
+<img src="https://raw.githubusercontent.com/kpuc313/AMXX-AFK_Protection/main/preview/logo.png">
 <br />
 <img src="https://github.com/kpuc313/AMXX-AFK_Protection/blob/main/preview/preview_01.png" width="400px"><img src="https://github.com/kpuc313/AMXX-AFK_Protection/blob/main/preview/preview_02.png" width="400px">
 </p>
